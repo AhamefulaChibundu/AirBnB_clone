@@ -60,6 +60,7 @@ section.filters button:hover {
     border-radius: 4px;
     position: relative;
     z-index: 1;
+    text-align: left;
 }
 .popover h2 {
     font-size: 16px;
